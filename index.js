@@ -1,3 +1,3 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
-AppRegistry.registerComponent('RNFirebaseStarter', () => App);
+import Todos from './Todos';
+AppRegistry.registerComponent('chatmoji', () => Todos);

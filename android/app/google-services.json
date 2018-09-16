@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "776862352661",
+    "firebase_url": "https://chatmoji-313c2.firebaseio.com",
+    "project_id": "chatmoji-313c2",
+    "storage_bucket": "chatmoji-313c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776862352661:android:735b3e51e13eb450",
+        "android_client_info": {
+          "package_name": "com.babelstudios.chatmoji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776862352661-s6sip03vcfug0uj7a18nrljmv0aqqu3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZsWs4oDkQPe5bdPik4j4MRm55k2PYls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
